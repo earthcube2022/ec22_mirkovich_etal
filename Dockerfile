@@ -23,7 +23,7 @@ RUN cd AMGeO-main && pip install numpy && pip install -r requirements.txt && pyt
 
 # prepare notebooks
 WORKDIR ${HOME}
-COPY AMGeO-Api.ipynb
+COPY AMGeO-Api.ipynb .
 COPY amgeo_out/ .
 
 # prepare notebook
