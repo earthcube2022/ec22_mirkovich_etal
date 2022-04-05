@@ -14,12 +14,17 @@ RUN adduser --disabled-password \
     ${NB_USER}
 WORKDIR ${HOME}
 
-#RUN apt-get update -y && apt-get install gcc gfortran unzip -y && mkdir /opt/notebook
+RUN apt-get update -y && apt-get install gcc gfortran unzip -y && mkdir /opt/notebook
 
 # install AMGeO
-#COPY AMGeO-main.zip .
-#RUN unzip AMGeO-main.zip 
-#RUN cd AMGeO-main && pip install numpy && pip install -r requirements.txt && python setup.py develop
+COPY AMGeO-main.zip .
+RUN unzip AMGeO-main.zip 
+RUN cd AMGeO-main && pip install numpy && pip install -r requirements.txt && python setup.py develop
+
+# prepare notebooks
+WORKDIR ${HOME}
+COPY AMGeO-Api.ipynb
+COPY amgeo_out/ .
 
 # prepare notebook
 #COPY AMGeO-Api-Release.ipynb README.md /opt/notebook/
