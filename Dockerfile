@@ -32,3 +32,4 @@ RUN conda install -c conda-forge cartopy=0.20.2
 WORKDIR ${HOME}
 COPY WM_01_AMGeO-2.0.ipynb . 
 COPY amgeo_out/ .
+COPY static/ .
