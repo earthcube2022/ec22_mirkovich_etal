@@ -16,6 +16,8 @@ WORKDIR ${HOME}
 
 RUN apt-get update -y && apt-get install gcc gfortran unzip -y && mkdir /opt/notebook
 
+# TODO: add cartopy install here
+
 # install AMGeO
 COPY AMGeO-wjmirk-git-auth.zip AMGeO-main.zip
 RUN unzip AMGeO-main.zip
