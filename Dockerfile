@@ -14,24 +14,21 @@ RUN adduser --disabled-password \
     ${NB_USER}
 WORKDIR ${HOME}
 
+# install AMGeO 2.0.2 from zip
+# TODO: fix to correct version when possible
 RUN apt-get update -y && apt-get install gcc gfortran unzip -y && mkdir /opt/notebook
-
-# TODO: add cartopy install here
-
-# install AMGeO
 COPY AMGeO-wjmirk-git-auth.zip AMGeO-main.zip
 RUN unzip AMGeO-main.zip
 #RUN cd AMGeO-main && pip install numpy && pip install -r requirements.txt && python setup.py develop
 RUN cd AMGeO-wjmirk-git-auth && pip install numpy && pip install -r requirements.txt && python setup.py develop
 
+# matplotlib/numpy/xarray installed with AMGeO
+# apexpy
+RUN pip install apexpy==1.1.0
+# cartopy install
+RUN conda install -c conda-forge cartopy=0.20.2
+
 # prepare notebooks
 WORKDIR ${HOME}
 COPY AMGeO-API.ipynb . 
 COPY amgeo_out/ .
-
-# prepare notebook
-#COPY AMGeO-Api-Release.ipynb README.md /opt/notebook/
-#COPY static/ /opt/notebook/static/
-#COPY amgeo_out/ /opt/notebook/amgeo_out/
-#COPY jupyter_notebook_config.py /.jupyter/
-#CMD jupyter notebook --allow-root --config='/.jupyter/jupyter_notebook_config.py'
