@@ -5,10 +5,10 @@ RUN /opt/conda/bin/conda install jupyter -y
 # install AMGeO 2.0.2 from zip
 # TODO: fix to correct version when possible
 RUN apt-get update -y && apt-get install gcc gfortran unzip -y && mkdir /opt/notebook
-COPY AMGeO-wjmirk-git-auth.zip AMGeO-main.zip
-RUN unzip AMGeO-main.zip
+COPY AMGeO-2.0.2.zip AMGeO-2.0.2.zip
+RUN unzip AMGeO-2.0.2.zip
 #RUN cd AMGeO-main && pip install numpy && pip install -r requirements.txt && python setup.py develop
-RUN cd AMGeO-wjmirk-git-auth && pip install numpy && pip install -r requirements.txt && python setup.py develop
+RUN cd AMGeO-2.0.2 && pip install numpy && pip install -r requirements.txt && python setup.py develop
 
 # matplotlib/numpy/xarray installed with AMGeO
 # apexpy
