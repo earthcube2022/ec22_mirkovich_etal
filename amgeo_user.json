@@ -1,0 +1,15 @@
+{
+    "amgeo": {
+      "api_key": "test"
+    },
+    "supermag": {
+      "username": "test"
+    },
+    "ampere": {
+      "username": "test"
+    },
+    "superdarn": {
+      "username": "amgeouser",
+      "password": "none"
+    }
+  }

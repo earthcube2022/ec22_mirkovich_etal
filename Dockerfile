@@ -34,6 +34,9 @@ COPY WM_01_AMGeO-2.0.ipynb .
 COPY amgeo_out/ amgeo_out/ 
 COPY static/ static/ 
 
+# dummmy credentials file
+COPY amgeo_user.json .local/share/AMGeO/amgeo_user.json
+
 # give user permissions to files in HOME
 USER root
 RUN chown -R ${NB_UID} ${HOME}
