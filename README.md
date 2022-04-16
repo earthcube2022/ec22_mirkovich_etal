@@ -1,8 +1,11 @@
 # Earthcube-Meeting-2022
 
+
 ![AMGeO Logo](./static/AMGeOLogo.svg)
 
 Notebook for Earthcube Meeting 2022
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willemmirkovich/Earthcube-Meeting-2022/HEAD)
 
 ## Abstract
 
@@ -29,7 +32,3 @@ docker run -it --rm -p 8888:8888 amgeo-earthcube-2022 jupyter notebook --ip=0.0.
 ```
 
 And open `WM_01_AMGeO-2.0.ipynb`
-
-## Acknowlegements
-
-TODO:
