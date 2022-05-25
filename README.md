@@ -19,7 +19,7 @@ To open this notebook in binder, use the following url:
 
 https://mybinder.org/v2/gh/willemmirkovich/Earthcube-Meeting-2022/HEAD
 
-And open `WM_01_AMGeO-2.0.ipynb`
+And open `WM_02_AMGeO-2.0.ipynb`
 
 ## Docker
 
@@ -31,4 +31,4 @@ docker build -t amgeo-earthcube-2022 .
 docker run -it --rm -p 8888:8888 amgeo-earthcube-2022 jupyter notebook --ip=0.0.0.0 --port=8888
 ```
 
-And open `WM_01_AMGeO-2.0.ipynb`
+And open `WM_02_AMGeO-2.0.ipynb`

@@ -15,7 +15,7 @@ RUN adduser --disabled-password \
 
 # prepare notebooks
 WORKDIR ${HOME}
-COPY WM_01_AMGeO-2.0.ipynb . 
+COPY WM_02_AMGeO-2.0.ipynb . 
 COPY amgeo_out/ amgeo_out/ 
 COPY static/ static/ 
 
