@@ -1,0 +1,10 @@
+[2022-04-16 00:17:45.376107] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-20 02:50:00.373296] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 03:55:56.002596] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 04:09:59.399179] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 04:13:57.364589] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 04:38:20.070045] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 04:42:39.162123] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 04:56:03.686765] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 04:57:20.724012] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00
+[2022-05-25 04:58:04.158012] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-02-06 12:30:00

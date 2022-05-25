@@ -1,0 +1,40 @@
+[2022-04-16 00:17:45.346998] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-04-16 00:17:45.349963] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/AMGeO-dev/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-04-16 00:17:45.359723] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-04-16 00:17:45.361410] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-20 02:50:00.355705] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-20 02:50:00.358070] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-20 02:50:00.362080] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-20 02:50:00.363743] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 03:55:55.984251] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 03:55:55.986913] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 03:55:55.989820] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 03:55:55.990883] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 04:09:59.384594] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 04:09:59.388023] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 04:09:59.391267] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 04:09:59.392478] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 04:13:57.347723] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 04:13:57.350096] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 04:13:57.353642] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 04:13:57.354697] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 04:38:20.042524] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 04:38:20.047481] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 04:38:20.055462] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 04:38:20.057084] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 04:42:39.145388] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 04:42:39.147671] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 04:42:39.153287] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 04:42:39.154283] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 04:56:03.670364] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 04:56:03.673701] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 04:56:03.676365] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 04:56:03.678239] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 04:57:20.708657] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 04:57:20.712042] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 04:57:20.716167] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 04:57:20.717344] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
+[2022-05-25 04:58:04.139863] INFO: AMGeO.driver_default: No new datetimes to complete for 2013-01-06 16:30:00
+[2022-05-25 04:58:04.141991] DEBUG: AMGeO.driver_default: AMGeO default output directory: /workspaces/Earthcube-Meeting-2022/amgeo_out/Default/20130206N
+[2022-05-25 04:58:04.148650] INFO: AMGeO.driver_default: 2013-02-06 12:30:00 complete
+[2022-05-25 04:58:04.149512] INFO: AMGeO.driver_default: 2013-02-06 13:30:00 complete
