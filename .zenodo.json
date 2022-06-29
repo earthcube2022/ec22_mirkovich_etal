@@ -1,0 +1,31 @@
+
+{
+    "title": "AMGeO 2.0: Crafting an API for Geospace Data Scientists",
+    "creators": [
+        {
+            "name": "Willem Mirkovich",
+            "affiliation": "University of Colorado Boulder, Smead Aerospace Engineering Sciences",
+            "email": "willem.mirkovich@colorado.edu",
+            "orcid": "0000-0003-0955-8281"
+        },
+        {
+            "name": "Tomoko Matsuo",
+            "affiliation": "University of Colorado Boulder, Smead Aerospace Engineering Sciences",
+            "email": "tomoko.matsuo@colorado.edu",
+            "orcid": "0000-0002-2754-1224"
+        },
+        {
+            "name": "Liam Kilcommons",
+            "affiliation": "University of Colorado Boulder, Smead Aerospace Engineering Sciences",
+            "email": "Liam.Kilcommons@colorado.edu",
+            "orcid": "0000-0002-4980-3045"
+        }
+    ],
+    "keywords": [
+        "AMGeO",
+        "Xarray",
+        "Python",
+        "API",
+        "Geospace"
+    ]
+}
